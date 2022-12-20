@@ -1,3 +1,5 @@
-For this tutorial, I made an HTML table with at least one more column and different data than the sample code.
-I also included a class name that weas relevant to the table and changed something about the style of a cell, cells, row, or rows.
-Finally, I added rectangles to the svg.
+For this tutorial, I made an HTML table with at least one more column than the sample code and class demo. 
+The columns included variables such as the city and state with corresponding population and crime estimates (violent crime, property crime, and combined crime)
+The rows included the cities ofr Portland (OR), Seattle (WA), Philadelphia (PA), Boston (MA), and Dallas (TX)
+I then used crime and population estimates provided by these city governments. 
+Finally, I added two svgs and a choropleth map to the web page. 
