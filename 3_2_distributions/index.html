@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+    <title>Interactive Data Visualization Tutorial</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro">
+  </head>
+  <body>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <h1>Interactive Scatter Plot for Neighborhoods in Portland, OR (2021)</h1>
+<div id="plot-wrapper" style="position: relative; overflow: visible; margin: 25px 10px;">
+  <svg id="plotSVG" width=900 height=495></svg>
+  <select id="select-y-var" style="position: absolute; top:2px; left:1px;">
+    <option value="propertycrimes">Property Crime</option>
+    <option value="violentcrimes">Violent Crime</option>
+    <option value="population">Population</option>
+    <option value="policeofficers">Police Officers</option>
+  </select>
+  <select id="select-x-var" style="position: absolute; bottom:0px; left: 630px;">
+    <option value="population">Population</option>
+    <option value="policeofficers">Police Officers</option>
+    <option value="region">Region</option>
+  </select>
+</div>
+<script src="https://d3js.org/d3.v6.min.js"></script>
+<script src="main.js"></script>
+<p1>Note: Neighborhoods have been sized in accordance to their total area (square miles).</p1>
+</body>
+</html> 
