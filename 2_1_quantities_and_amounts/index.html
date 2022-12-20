@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+  <head>
+    <meta charset="utf-8">
+    <title>Interactive Data Visualization Tutorial</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro">
+  </head>
+  <body>
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <h1>Crime Breakdown for Select US Cities (2020 - 2021)</h1>
+    <h2>Created by Bryce Barthuly for DATA 73200</h2>
+  </body>
+<svg class="chart"></svg>
+<script src="main.js"></script>
+ <style>
+  .chart .legend {
+    fill: black;
+    font: 12px Times; 
+    text-anchor: start;
+    font-size: 25px;
+  }
+  
+  .chart text {
+    fill: whitesmoke;
+    font: 10px sans-serif;
+    text-anchor: end;
+    font-size:18px;
+  }
+  
+  .chart .label {
+    fill: black;
+    font: 14px sans-serif;
+    text-anchor: end;
+    font-size:22px;
+  }
+  
+  .bar:hover {
+    fill: blue; 
+  }
+  
+  .axis path,
+  .axis line {
+    fill: none;
+    stroke: black; 
+    shape-rendering: crispEdges;
+  }
+  </style> 
+  </html> 
