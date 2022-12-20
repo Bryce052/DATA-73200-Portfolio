@@ -1,3 +1,4 @@
-Implement your own line chart with a different dataset than the one used in our demo. Your data should only create one line (given then next requirement).
-Turn this line chart into an area chart. Tip: Think first about how that would be drawn on the screen. What are you creating on the svg? This requires referencing the d3 documention to understand the similarities and differences between the area function generator and the line function generator.
-Make intentional design decisions -- colors, sizes, axes, etc. should illustrate something interesting about or relevant to your data.
+For this tutorial, I created an area graph using a different dataset than the class demo. 
+Using data provided by city governments (May 2020 - December 2020), the graph shows the number of crimes reported to law enforcement in select US Cities including Portland (OR), Seattle (WA), Los Angeles (CA), San Francisco (CA), and Boise (ID). 
+Each of the cities were then color coded to show their proportion of the total number of crimes over time relative to other cities. 
+A title and description of the chart was then added to the web page. 
