@@ -1,0 +1,51 @@
+h1 {
+  font-size: 2.4em;
+  text-align: center;
+  background-color: lightgoldenrodyellow;
+}
+
+h2 {
+  font-size: 1.6em;
+  text-align: center;
+  margin: 0.25em 0;
+  background-color: lightgoldenrodyellow;
+}
+p1 { 
+  font-size:1.6em; 
+  color:black;
+}
+p2 { 
+  font-size:1.6em; 
+  color:red; 
+}
+p3 { 
+  font-size:1.6em;
+  color:blue;
+}
+p4 { 
+  font-size:1.6em;
+  color:black
+}
+p5 { 
+  font-size: 1.6em;
+  color:olive;
+}
+p6 { 
+  font-size:1.6em; 
+  color:salmon;
+}
+.type-POR {
+	fill: red;
+}
+.type-SEA {
+	fill: blue;
+}
+.type-LA {
+	fill: black;
+}
+.type-SF {
+	fill: olive;
+}
+.type-BI {
+	fill: salmon;
+}
