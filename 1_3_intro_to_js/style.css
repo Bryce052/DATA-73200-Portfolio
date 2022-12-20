@@ -1,0 +1,27 @@
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 16px;
+  padding: 1em;
+}
+
+h1 {
+  font-size: 3em;
+  text-align: center;
+  background-color: gold;
+}
+
+h3 {
+  font-size: 1.5em;
+  text-align: left;
+  margin: 0.25em 0;
+  background-color: aquamarine;
+}
+
+p {
+  font-family: serif;
+  font-size: 5em;
+}
+
+section {
+  padding: 2em 0;
+}
