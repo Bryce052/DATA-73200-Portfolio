@@ -1,0 +1,126 @@
+h1 { 
+  font-size:3.0em;
+  text-align:center;
+  margin:0.50em;
+  background-color: gold;
+}
+.transitroutes {
+  font-size:28px;
+  font-family:'Times New Roman', Times, serif;
+  background-color:antiquewhite;
+  width:1050px;
+  padding:20px;
+  overflow:hidden;
+  float:left;
+}
+.transitroutes h2 {
+  font-size:34px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.transitroutes img {
+  width:510px;
+  height:682px;
+  margin-right:0px;
+  margin-top:0px;
+  margin-left:10px;
+float:right; 
+}
+.crimepatterns {
+  font-size:28px;
+  font-family:'Times New Roman', Times, serif;
+  background-color:aliceblue;
+  width:1000px;
+  height:920px;
+  padding:20px;
+  overflow:hidden;
+  float:right;
+}
+.crimepatterns h3 {
+  font-size:34px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.crimepatterns img {
+  width:610px;
+  height:702px;
+  margin-right:15px;
+float:right; 
+}
+.ridership {
+  font-size:30px;
+  font-family:'Times New Roman', Times, serif;
+  background-color:whitesmoke;
+  width:1050px;
+  padding:20px;
+  overflow:hidden;
+  float:left;
+}
+
+.ridership h4 {
+  font-size:36px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ridership img {
+  margin-right:15px;
+float:right; 
+}
+
+.y-axis line {
+	opacity:.4;
+}
+.y-axis path {
+	display:none;
+}
+.line {
+	fill: none;
+	stroke-width: 3px;
+	opacity:.5;
+}
+.overlay {
+	fill: none;
+	pointer-events: all;
+}
+.lineHoverText {
+	text-shadow:
+	-2px -2px 0 #fff,
+	2px -2px 0 #fff,
+	-2px 2px 0 #fff,
+	2px 2px 0 #fff;
+}
+.hoverCircle {
+	opacity: .65;
+}
+
+.neighborhoods {
+  font-size:28.5px;
+  font-family:'Times New Roman', Times, serif;
+  background-color:snow;
+  width:1000px;
+  height:1225px;
+  padding:20px;
+  overflow:hidden;
+  float:right;
+}
+.neighborhoods img {
+  margin-right:10px;
+  float:right; 
+}
+.neighborhoods h5 {
+  font-size:36px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-top:2%;
+}
+.dashboardinfo {
+  font-size:32px;
+  font-family:'Times New Roman', Times, serif;
+  background-color:gainsboro;
+  width:1050px;
+  height:378px;
+  padding:20px;
+  overflow:hidden;
+}
+
+.dashboardinfo h6 {
+  font-size:40px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-top:3%
+}
