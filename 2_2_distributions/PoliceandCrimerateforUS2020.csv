@@ -1,0 +1,15 @@
+city 	region 	policerate 	pop 	numberofcrimes
+Seattle 	Northwest 	19.8 	737015 	43552
+Portland 	Northwest 	14.1 	652503 	66227
+Boise 	Northwest 	12.3 	235684 	7490
+Spokane 	Northwest 	14.3 	229071 	14568
+LasVegas 	Southwest 	20.9 	641903 	48806
+Denver 	Southwest 	21.2 	711463 	25550
+Phoenix 	Southwest 	17.8 	1608139 	37215
+WashingtonDC 	Northeast 	56.9 	712816 	14245
+NewYorkCity 	Northeast 	41.4 	8468000 	85552
+Philadelphia 	Northeast 	40.9 	1576000 	75600
+Atlanta 	Southeast 	35.8 	500000 	34850
+Nashville 	Southeast 	20.9 	694144 	14137
+NewOrleans 	Southeast 	29.5 	383997 	17850
+Charlotte 	Southeast 	19.4 	879709 	14568
