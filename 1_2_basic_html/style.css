@@ -1,0 +1,41 @@
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 16px;
+  padding: 1em;
+}
+
+h1 {
+  font-size: 2em;
+  margin: 0.75em 0;
+  text-align: center
+}
+
+h3 {
+  font-size: 2em;
+  margin: 0.25em 0;
+}
+
+p {
+  font-size: 1em;
+}
+
+p{
+  text-align:center;
+}
+
+.crime { 
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+  td, th {
+    border: 1px solid rgb(190,190,190);
+    padding: 10px 20px;
+  }
+  th {
+    background-color: rgb(235,235,235);
+    text-align: center;
+   }
+  td {
+    text-align: center;
+  }
