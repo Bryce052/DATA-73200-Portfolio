@@ -1,1 +1,1 @@
-For this first tutorial, I updated the language in the index.html. 
+For this first tutorial, I updated the language and style in the index.html. 
