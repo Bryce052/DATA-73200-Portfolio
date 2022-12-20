@@ -10,7 +10,7 @@ var svg = d3.select("#my_chart")
     .attr("transform",
           "translate(" + margin.left + "," + margin.top + ")");
 
-d3.csv("2_2_distributions/PoliceandCrimerateforUS2020.csv", function(data) {
+d3.csv("PoliceandCrimerateforUS2020.csv", function(data) {
 
   var x = d3.scaleLinear()
     .domain([0, 100000])
