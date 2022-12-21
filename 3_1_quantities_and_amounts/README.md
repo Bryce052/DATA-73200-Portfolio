@@ -1,4 +1,5 @@
-mplement your own bar chart with a different dataset than the one used in our demo. It can be the same dataset you used in the section 2 version of this same tutorial.
-Add axes or labels to this chart, as we learned in other tutorials of the previous section.
-Add a color scale to this chart, as we learned in other tutorials of the previous section.
-Make intentional design decisions -- colors, sizes, axes, transitions, etc. should illustrate something interesting about or relevant to your data.
+For this tutorial, I created a vertical bar chart using a different dataset than the one used in the class demo. 
+Using data provided by the Portland Police Bureau (2021), various crime types (sex crimes, drug crimes, property crimes, and violent crimes) were reported for a selection of neighborhoods in the city (including the Northwest, Hazelwood, Pearl, Downtown, Linnton, and St. Johns). 
+Axes were added to the graph and included the number of crimes (y-axis) and name of the Portland neighborhood (x-axis).
+A color scale was used for the different crime types (in the bar graph and legend). 
+The legend was made interactive to the user by offering the ability to select the type of crime - the result of one or more selections by the user was a change in the bars presented in the graph. 
