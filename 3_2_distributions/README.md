@@ -3,3 +3,5 @@ Using neighborhood data from the Portland Police Bureau (2021), this graph inclu
 Each of the neighborhoods were assigned a unique color in accordance to their location in Portland (North, Northwest, Northeast, South, Southwest, and Southeast). 
 The dots (representing neighborhoods) were then sized in accordance to their total area (in square miles). 
 Finally, a tooltip was added to the scatter graph to allow the user to hover over each dot and be presented with the values (corresponding with the selected variables in the dropdown menus). 
+The created web page can be accessed via https://bryce052.github.io/Interactive-Data-Viz-Fall2022_3_2_Distributions/
+A screenshot of the web page has also been uploaded to this repository. 
