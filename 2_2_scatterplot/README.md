@@ -3,5 +3,5 @@ Using data provided by city governments, the scatter showed the relationship bet
 The scatter dots were sized in accordance to the population (2021) of the city. Every dot was then color coded to reflect the region of the United States to which the city belonged (Northwest, Southwest, Northeast, and Southeast). 
 A tooltip was then added to the graph for the user to hover over each of the dots and be presented with the name of the city on the scatter graph. 
 Finally, a title and description of the chart was added to the web page. 
-The web page can be accessed via https://bryce052.github.io/bryce052.github.io_Interactive-Data-Viz-Fall2022-2_2_distributions/
+The web page can be accessed via https://bryce052.github.io/DATA-73200-Portfolio/2_2_scatterplot/
 A screenshot of the web page has also been uploaded to this repository. 
