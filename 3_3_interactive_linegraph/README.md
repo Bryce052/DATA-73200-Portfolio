@@ -5,5 +5,5 @@ A tooltip was then added to allow the user to hover over each of these dots (rep
 Lines were also color coded in accordance to the neighborhood that was being represented. 
 For these neighborhoods, an interactive legend was created that allows the user to select one or more of the neighborhoods and be presented with the line(s) that corresponds with that selection. 
 Finally, axis titles were added to the graph alongside a chart title and description. 
-The created web page can be accessed via https://bryce052.github.io/Interactive-Data-Vis-Fall2022/3_3_time_series/
+The created web page can be accessed via https://bryce052.github.io/DATA-73200-Portfolio/3_3_interactive_linegraph/
 A screenshot of the web page has been uploaded to this repository. 
